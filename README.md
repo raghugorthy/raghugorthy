@@ -2,10 +2,10 @@
 
 <h1 align="center">Hi there, I'm Raghu Chandra Gorthy 👋</h1>
 
-🌟 **Network & Security Engineer | Cloud Security Enthusiast | Technical Blogger**  
+🌟 **SRE & Cloud Security Engineer | Cloud Security Enthusiast | Technical Blogger**  
 🔹 Passionate about **Vulnerability Management, Threat Modeling, and GRC**  
-🔹 Preparing for **AWS Solutions Architect Associate**  
-🔹 Interested in **Google Cloud Security, Compliance & Automation**  
+🔹 Preparing for **CISSP**  
+🔹 Interested in **Cloud Security, Compliance & Automation**  
 
 ---
 
