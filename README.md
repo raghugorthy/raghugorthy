@@ -25,8 +25,8 @@
 ---
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
-[![Blog](https://img.shields.io/badge/My%20Blog-%23FF5722.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://yourblog.com)  
+[![LinkedIn](https://www.linkedin.com/in/raghu-gorthy/)  
+[![Blog]()  
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghugorthy)  
 
 🔥 **"Securing the Cloud, One Vulnerability at a Time!"**  
