@@ -1,11 +1,8 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Raghu Chandra Gorthy </h1>
 
-<h1 align="center">Hi there, I'm Raghu Chandra Gorthy 👋</h1>
-
-🌟 **SRE & Cloud Security Engineer | Cloud Security Enthusiast | Technical Blogger**  
-🔹 Passionate about **Vulnerability Management, Threat Modeling, and GRC**  
-🔹 Preparing for **CISSP**  
-🔹 Interested in **Cloud Security, Compliance & Automation**  
+🌟 **Cloud Security Engineer | Cloud Security Enthusiast | Technical Blogger**  
+🔹 Passionate about **DevSecOps, Site reliability engineering, Vulnerability Management, Threat Modeling, Container Secuirty and GRC**  
+🔹 Preparing for **CISSP**    
 
 ---
 
@@ -25,8 +22,8 @@
 ---
 
 ### 📫 **Connect with Me**
-[![LinkedIn](https://www.linkedin.com/in/raghu-gorthy/)  
-[![Blog]()  
-[![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghugorthy)  
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghu-gorthy/)
+- [![Blog](https://img.shields.io/badge/My%20Blog-%23FF5722.svg?style=for-the-badge&logo=Hashnode&logoColor=white)](https://yourblog.com)  
+- [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghugorthy)
 
-🔥 **"Securing the Cloud, One Vulnerability at a Time!"**  
+### 🔥 **"Optimizing & Securing the Cloud, One Vulnerability at a Time!"**  
